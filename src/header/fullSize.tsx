@@ -75,7 +75,7 @@ function Component(props: Props) {
                 <span className="Tertiary">
                     Department of Mechanical and Industrial Engineering<br/>
                     University of Toronto<br/>
-                    m.macneil [at] utoronto [dot] ca<br/>
+                    m.macneil [at] mail [dot] utoronto [dot] ca<br/>
                 </span>
             </div>}
             <div className="Menu-container">
