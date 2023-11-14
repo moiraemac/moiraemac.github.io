@@ -7,6 +7,7 @@ function ListFrame() {
         <div className="Frame List-Frame" id={"education"}>
             <h2>Education</h2>
             <ul>
+                <li>Ph.D, Industrial Engineering, University of Toronto, Anticipated 2024</li>
                 <li>Master of Applied Science, Industrial Engineering, University of Toronto, 2019</li>
                 <ul>
                     <li>Thesis:	<a href='https://tspace.library.utoronto.ca/bitstream/1807/98151/1/MacNeil_Moira_201911_MAS_thesis.pdf'>Integer and Constraint Programming Approaches to Discretizable Distance Geometry Problems</a></li>
